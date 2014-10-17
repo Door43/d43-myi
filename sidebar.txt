@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[myi:home|Door43 (myi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-myi|d43-myi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-myi/archive/master.zip|d43-myi.zip]]
+
+**Recent Changes**
+{{changes>ns = myi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/myi|Ethnologue data]]
+
